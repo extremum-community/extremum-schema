@@ -6,7 +6,7 @@ This repository contains common data schemas of the [Extremum Project](http://ex
 Currently, all data models are specified using [JSON Schema](https://json-schema.org/). We also plan to introduce schemas for XML, Avro, and data structure specs for DDS.
 
 ## Contents
-- [JSON Repository](http://schema.extremum.io/json/)
+- [JSON Repository](/json/)
 - XML Repository (under construction)
 - Avro Repository (under construction)
 
