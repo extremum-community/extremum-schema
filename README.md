@@ -15,9 +15,9 @@ Currently, all data models are specified using [JSON Schema](https://json-schema
 If you have any issues specifically pertaining to the resources from this repository, please refer to the project's [issue tracker](https://github.com/extremum-io/extremum-schema/issues).
 
 ## Links
-- Official Website: https://extremum.io
-- GitHub: https://github.com/extremum-io
-- Facebook: https://www.facebook.com/extremum.io
+- [Official Website](https://extremum.io)
+- [GitHub](https://github.com/extremum-io)
+- [Facebook](https://www.facebook.com/extremum.io)
 
 ## Credits
 
