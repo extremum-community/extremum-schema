@@ -1,0 +1,27 @@
+{
+  "title": "Timeframe",
+  "type": "object",
+  "properties": {
+    "duration": {
+      "type": [
+        "integer",
+        "string"
+      ],
+      "description": "The duration of the timeframe given in microseconds. Can be set as a string like \"4h30m\", \"1d\", etc."
+    },
+    "start": {
+      "description": "The start timestamp of the timeframe.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "end": {
+      "description": "The end timestamp of the timeframe.",
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": [
+    "duration"
+  ],
+  "description": "A period of time that has duration with optional start and end timestamps formatted as [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) strings like `YYYY-MM-DD'T'hh:mm:ss.ffffffZ`. The microsecond precision is not mandatory, but can be practically very useful in some cases ⏱"
+}
