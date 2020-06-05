@@ -1,0 +1,18 @@
+---
+version: 4.0.0
+name: Extremum Schema
+description: Extensible data schemas for better web services
+url: http://schema.extremum.io
+repository: https://github.com/extremum-io/extremum-schema
+timezone: Europe/Moscow
+logo: "/images/extremum-logo-800x800.png"
+google_analytics_id: UA-165727637-1
+google_site_verification: McHCsirMh9oX5S_LoktwWwooaxJSRhxCiguhywLN6i4
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-seo-tag
+exclude:
+- CNAME
