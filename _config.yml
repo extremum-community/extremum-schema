@@ -16,3 +16,5 @@ plugins:
 - jekyll-seo-tag
 exclude:
 - CNAME
+
+theme: jekyll-theme-cayman
