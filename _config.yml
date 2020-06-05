@@ -1,7 +1,7 @@
 ---
 version: 4.0.0
 title: Extremum Schema
-logo: "/images/extremum-logo-800x800.png"
+logo: "http://extremum.io/images/extremum-logo-800x800.png"
 description: Extensible data schemas for better web services
 url: http://schema.extremum.io
 repository: https://github.com/extremum-io/extremum-schema
