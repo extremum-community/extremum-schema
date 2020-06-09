@@ -2,7 +2,7 @@
 
 This repository contains common data schemas of the [Extremum Project](http://extremum.io). These schemas are used in its core services, API, and derived products. You can read more about Extremum in its [official documentation for developers](https://docs.extremum.io). You can freely use any schemas from this repository in your own projects (with or without Extremum) by referencing or replicating them.
 
-## Schema formats
+# Schema formats
 Currently, all data models are specified using [JSON Schema](https://json-schema.org/). We also plan to introduce schemas for XML, Avro, and data structure specs for DDS.
 
 # Contents

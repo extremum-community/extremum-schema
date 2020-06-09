@@ -1,18 +1,21 @@
----
-version: 4.0.0
 title: Extremum Schema Repository
-logo: "http://extremum.io/images/extremum-logo-800x800.png"
-description: Extensible data schemas for better web services
+description: Extensible data schemas for better webscale services
 url: http://schema.extremum.io
+logo: "http://extremum.io/images/extremum-logo-800x800.png"
 repository: https://github.com/extremum-community/extremum-schema
+github_username: extremum-community
+email: hello@extremum.io
 timezone: UTC
 google_analytics_id: UA-165727637-2
-plugins:
-- jekyll-avatar
-- jekyll-feed
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-seo-tag
+
+#plugins:
+#- jekyll-avatar
+#- jekyll-feed
+#- jekyll-mentions
+#- jekyll-redirect-from
+#- jekyll-seo-tag
+
 exclude:
 - CNAME
+
 theme: jekyll-theme-hacker
