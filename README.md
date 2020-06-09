@@ -12,11 +12,11 @@ Currently, all data models are specified using [JSON Schema](https://json-schema
 
 ## Issues
 
-If you have any issues specifically pertaining to the resources from this repository, please refer to the project's [issue tracker](https://github.com/extremum-io/extremum-schema/issues).
+If you have any issues specifically pertaining to the resources from this repository, please refer to the project's [issue tracker](https://github.com/extremum-community/extremum-schema/issues).
 
 ## Links
 - [Official Website](https://extremum.io)
-- [GitHub](https://github.com/extremum-io)
+- [GitHub](https://github.com/extremum-community)
 - [Facebook](https://www.facebook.com/extremum.io)
 
 ## Credits
