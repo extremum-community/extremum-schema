@@ -31,5 +31,8 @@
     "version",
     "created"
   ],
-  "description": "The `object` model gives basic attribution to every data object stored in the platform. It specifies common identification of the objects and their versioning."
+  "description": "The `object` model gives basic attribution to every data object stored in the platform. It specifies common identification of the objects and their versioning.",
+  "x-tags": [
+    "system"
+  ]
 }
